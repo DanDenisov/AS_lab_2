@@ -1,0 +1,4 @@
+VAR
+	count : USINT;
+	ledEnable : BOOL;
+END_VAR

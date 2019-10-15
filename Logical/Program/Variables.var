@@ -1,0 +1,6 @@
+VAR
+	driveSM : DriveStateMachine;
+	doorSM : DoorStateMachine;
+	ledSM : LedStateMachine;
+	state : DoorStates;
+END_VAR
