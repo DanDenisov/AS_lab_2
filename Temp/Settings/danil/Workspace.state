@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?AutomationStudio Version=4.5.2.102?>
 <State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
-  <TreeView ID="8I64xxxxxxx.00x-1-Config1-4PP065_0571_P74" EditColumn="10" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+  <TreeView ID="8I64xxxxxxx.00x-1-Config1-4PP065_0571_P74" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="0" Position="0" />
       <Column Index="1" Width="0" Position="1" />
@@ -22,19 +22,21 @@
       <Column Index="16" Width="0" Position="16" />
     </Columns>
     <ExpandedNodes />
-    <SelectedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="0" />
+    </SelectedNodes>
     <ZoomIndices />
   </TreeView>
-  <TextEdit ID="C:\Projects\Lab2\Logical\Program\Main.c" CaretLine="29" CaretColumn="27" FirstVisibleLine="40">
+  <TextEdit ID="C:\Projects\Lab2\Logical\Program\Main.c" CaretLine="29" CaretColumn="26" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
-  <TextEdit ID="C:\Projects\Lab2\Logical\Libraries\DriveLib\DoorStateMachine.c" CaretLine="119" CaretColumn="33" FirstVisibleLine="93">
+  <TextEdit ID="C:\Projects\Lab2\Logical\Libraries\DriveLib\DoorStateMachine.c" CaretLine="119" CaretColumn="5" FirstVisibleLine="89">
     <Bookmarks />
   </TextEdit>
   <TextEdit ID="C:\Projects\Lab2\Logical\Libraries\DriveLib\DriveStateMachine.c" CaretLine="12" CaretColumn="2" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
-  <TextEdit ID="C:\Projects\Lab2\Logical\Libraries\DriveLib\LedStateMachine.c" CaretLine="42" CaretColumn="58" FirstVisibleLine="22">
+  <TextEdit ID="C:\Projects\Lab2\Logical\Libraries\DriveLib\LedStateMachine.c" CaretLine="42" CaretColumn="34" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
 </State>
